@@ -1,4 +1,4 @@
-# SudokuMaster++
+# SudokuSolverPlusPlus
 ## Sudoku Solver
 
 Author: Harsh Pandey
